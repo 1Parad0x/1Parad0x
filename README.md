@@ -5,7 +5,6 @@
 ### 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Lover
 
 [![GitHub followers](https://img.shields.io/github/followers/1Parad0x?style=social)](https://github.com/1Parad0x)
-[![Twitter Follow](https://img.shields.io/twitter/follow/1Parad0x?style=social)](https://twitter.com/1Parad0x)
 
 </div>
 
